@@ -1,13 +1,11 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://obukhov-projects.ru";
-
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: `${siteUrl}/sitemap.xml`,
+    sitemap: "https://www.proao.net/sitemap.xml",
   };
 }
