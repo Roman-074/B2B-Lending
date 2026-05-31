@@ -55,13 +55,6 @@ export default function Cooperation() {
                 Такой формат удобен и для разовых задач, и для продолжительной
                 работы с предприятием.
               </p>
-              <a
-                href="#contacts"
-                className="btn group relative mt-8 overflow-hidden bg-white text-navy-900 shadow-soft hover:-translate-y-0.5 hover:shadow-glow"
-              >
-                <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-steel-100/60 to-transparent transition-transform duration-700 group-hover:translate-x-full" />
-                <span className="relative">Обсудить проект</span>
-              </a>
             </Reveal>
           </div>
 
