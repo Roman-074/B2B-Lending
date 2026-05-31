@@ -1,0 +1,14 @@
+{
+  "name": "ИП Обухов А. В. — Инженерные проекты",
+  "short_name": "Обухов А. В.",
+  "description": "Комплексное сопровождение промышленных и инженерных проектов.",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b2840",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
