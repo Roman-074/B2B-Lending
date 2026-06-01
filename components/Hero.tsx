@@ -118,7 +118,7 @@ export default function Hero() {
           </p>
 
           <h1
-            className="mt-6 animate-fade-up text-balance text-4xl font-semibold leading-[1.08] sm:text-5xl lg:text-[3.4rem]"
+            className="mt-6 animate-fade-up text-balance text-[2.125rem] font-semibold leading-[1.08] sm:text-[2.875rem] lg:text-[3.275rem]"
             style={{ animationDelay: "80ms" }}
           >
             Помогаю промышленным компаниям находить клиентов, запускать проекты
