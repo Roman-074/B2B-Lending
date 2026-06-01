@@ -8,7 +8,7 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-const siteUrl = "https://obukhov-projects.ru";
+const siteUrl = "https://www.proao.net";
 const siteName =
   "ИП Обухов А. В. — клиенты, проекты и контроль подрядчиков для промышленных компаний";
 const siteDescription =
